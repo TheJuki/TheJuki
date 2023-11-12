@@ -9,6 +9,10 @@ These are some of the major technologies that I use or have worked on in the pas
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <br />
 
 
@@ -24,13 +28,16 @@ These are some of the major technologies that I use or have worked on in the pas
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sumologic/sumologic-ar21.svg"></code>
 <br />
 
 **Databases**
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg"></code>
-<code><img width="10%" src="ghttps://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-dynamodb.svg"></code>
 <br />
 
 **Tools**
